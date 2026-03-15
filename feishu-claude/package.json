@@ -1,0 +1,5 @@
+{
+  "name": "feishu-claude-notes",
+  "version": "1.0.0",
+  "description": "小红书笔记自动生成 - 飞书多维表格 + Claude API"
+}
